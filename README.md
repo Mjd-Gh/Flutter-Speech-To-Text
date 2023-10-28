@@ -14,3 +14,4 @@ This Flutter app is designed to assist English learners in improving their speak
 To run this app, you'll need to have Flutter installed. 
 - **If the app does not work in your Emulator, try to use a physical emulator instead**
 - **For IOS you need to add some Permissions -> [see the package decumentation](https://pub.dev/packages/speech_to_text)**
+- **Ensure that your device "Emulator" is connected to the internet, and Microphone access is enabled**
